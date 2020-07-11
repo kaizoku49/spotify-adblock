@@ -3,10 +3,15 @@ Spotify adblocker for Linux that works by wrapping `getaddrinfo` and *libcurl*'s
 
 ## Installing
 Run the spotify_install.sh by 
-    $ chmod +x spotify_install.sh
-    $ ./spotfy_install.sh
+```
+     $ chmod +x spotify_install.sh
+     $ ./spotfy_install.sh
+```  
+ 
 ## Running Spotify
 Navigate to the directory wherever you have cloned spotify-adblock-linux then 
+```
     $ chmod +x spotify.sh
     $./spotify.sh 
+```
 This will run the spotify application on your Desktop.  
