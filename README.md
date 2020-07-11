@@ -15,3 +15,4 @@ Navigate to the directory wherever you have cloned spotify-adblock-linux then
     $./spotify.sh 
 ```
 This will run the spotify application on your Desktop.  
+Credit of this goes to: https://github.com/abba23/spotify-adblock-linux
