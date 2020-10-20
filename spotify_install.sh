@@ -2,6 +2,7 @@
 sudo apt-get update
 sudo apt-get install make
 sudo apt install build-essential
+sudo apt install curl 
 sudo apt-get install libcurl4-gnutls-dev
 sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
 curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add -
